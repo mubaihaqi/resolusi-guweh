@@ -2,4 +2,5 @@ RESOLUSI GUWEH
 - Konsisten untuk membuat konten setiap hari mengenai UI UX Design di Thread
 - Membuat 3 website portfolio (personal, company, online courses)
 - Membuat AI model yang dapat relate dengan permasalahan kompleks di lingkungan sekitar
-- Membuat forum diskusi online mengenai UI UX Design
+- Membuat forum diskusi online mengenai UI Design
+- Membuat vlogs
