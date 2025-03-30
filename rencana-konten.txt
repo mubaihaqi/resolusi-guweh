@@ -4,6 +4,7 @@ RENCANA KONTEN GUWEH
   * Mobile Top Destination Web
 - UX fundamental
 - UI design display
+ * Reels IG
 - Interview
 - Vlogs
-*menghidupkan kembali akun X*
+*Menghidupkan kembali akun IG*
