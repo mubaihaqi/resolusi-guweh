@@ -1,5 +1,7 @@
 RENCANA KONTEN GUWEH
 - Parallax effect UI
+  * Top Destination Web
+  * Mobile Top Destination Web
 - UI design display
 - Interview
 - Vlogs
